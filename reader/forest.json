@@ -1,0 +1,11 @@
+{
+  "label": "Forest",
+  "icon": "leaf.fill",
+  "author": "NMN",
+  "backgroundHex": "1A2E1A",
+  "textHex": "C8E6C8",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "1A2E1A",
+  "bannerBackgroundColor": "C8E6C8"
+}

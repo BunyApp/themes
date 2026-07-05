@@ -1,0 +1,14 @@
+{
+  "label": "",
+  "icon": "",
+  "author": "",
+  "colorTint": "#RRGGBB|#RRGGBB",
+  "colorTabbar": "#RRGGBB|#RRGGBB",
+  "colorNavPrimary": "#RRGGBB|#RRGGBB",
+  "colorNavSecondary": "#RRGGBB|#RRGGBB",
+  "colorLabelPrimary": "#RRGGBB|#RRGGBB",
+  "colorLabelSecondary": "#RRGGBB|#RRGGBB",
+  "colorBackgroundPrimary": "#RRGGBB|#RRGGBB",
+  "colorBackgroundSecondary": "#RRGGBB|#RRGGBB",
+  "colorBackgroundHue": "#RRGGBB|#RRGGBB"
+}

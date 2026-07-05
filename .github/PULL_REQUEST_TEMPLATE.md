@@ -1,0 +1,2 @@
+- [ ] Ran `python3 scripts/build.py --check` locally
+- [ ] Checked colors in both light and dark mode

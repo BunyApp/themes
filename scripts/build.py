@@ -13,7 +13,7 @@ APP_COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}\|#[0-9a-fA-F]{6}$")
 READER_HEX_RE = re.compile(r"^[0-9A-Fa-f]{6}$")
 
 APP_COLOR_KEYS = [
-    "colorTint", "colorTabbar", "colorNavPrimary", "colorNavSecondary",
+    "colorAccent", "colorNavPrimary", "colorNavSecondary",
     "colorLabelPrimary", "colorLabelSecondary", "colorBackgroundPrimary",
     "colorBackgroundSecondary", "colorBackgroundHue",
 ]

@@ -1,14 +1,13 @@
 {
-  "label": "Midnight Ocean",
-  "icon": "moon.stars.fill",
-  "author": "Buny Team",
-  "colorTint": "#0a0a2e|#0a0a2e",
-  "colorTabbar": "#0a0a2e|#0a0a2e",
-  "colorNavPrimary": "#ffffff|#e8e8e8",
-  "colorNavSecondary": "#cccccc|#999999",
-  "colorLabelPrimary": "#ffffff|#ffffff",
-  "colorLabelSecondary": "#aaaaaa|#888888",
-  "colorBackgroundPrimary": "#0a0a2e|#05051a",
-  "colorBackgroundSecondary": "#0f0f38|#08082a",
-  "colorBackgroundHue": "#0a0a2e|#05051a"
+    "label": "Midnight Ocean",
+    "icon": "moon.stars.fill",
+    "author": "Buny Team",
+    "colorAccent": "#2772db",
+    "colorNavPrimary": "#e8e8e8",
+    "colorNavSecondary": "#999999",
+    "colorLabelPrimary": "#ffffff",
+    "colorLabelSecondary": "#888888",
+    "colorBackgroundPrimary": "#05051a",
+    "colorBackgroundSecondary": "#08082a",
+    "colorBackgroundHue": "#05051a"
 }

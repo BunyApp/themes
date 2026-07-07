@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 FILENAME_RE = re.compile(r"^[a-z0-9_]+\.json$")
-APP_COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}\|#[0-9a-fA-F]{6}$")
+APP_COLOR_RE = re.compile(r"^#[0-9a-fA-F]{6}(\|#[0-9a-fA-F]{6})?$")
 READER_HEX_RE = re.compile(r"^[0-9A-Fa-f]{6}$")
 
 APP_COLOR_KEYS = [
@@ -43,7 +43,7 @@ def validate_app_theme(theme, path):
     _require_nonempty_str(theme, "author", path)
     for key in APP_COLOR_KEYS:
         if not APP_COLOR_RE.match(theme[key]):
-            raise ValidationError(f"{path}: '{key}' must match '#RRGGBB|#RRGGBB'")
+            raise ValidationError(f"{path}: '{key}' must match '#RRGGBB' or '#RRGGBB|#RRGGBB'")
 
 
 def validate_reader_theme(theme, path):

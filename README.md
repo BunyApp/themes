@@ -6,4 +6,6 @@ a manifest published on GitHub Pages.
 
 Live manifest: https://bunyapp.github.io/themes/manifest.json
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) to add a theme.
+See [CONTRIBUTING.md](CONTRIBUTING.md) to add a theme, and
+[THEME_DESIGN.md](THEME_DESIGN.md) for what each field renders and how to pick colors that
+stay readable.

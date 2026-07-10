@@ -1,0 +1,11 @@
+{
+  "label": "Cherry",
+  "icon": "heart.fill",
+  "author": "Buny",
+  "backgroundHex": "FDE6EA",
+  "textHex": "5C1A28",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "FDE6EA",
+  "bannerBackgroundColor": "5C1A28"
+}

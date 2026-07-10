@@ -1,0 +1,11 @@
+{
+  "label": "Sky",
+  "icon": "cloud.fill",
+  "author": "Buny",
+  "backgroundHex": "E1F0FA",
+  "textHex": "153347",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "E1F0FA",
+  "bannerBackgroundColor": "153347"
+}

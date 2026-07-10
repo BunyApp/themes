@@ -1,0 +1,11 @@
+{
+  "label": "Grass",
+  "icon": "leaf.fill",
+  "author": "Buny",
+  "backgroundHex": "E3EDD8",
+  "textHex": "2A3F22",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "E3EDD8",
+  "bannerBackgroundColor": "2A3F22"
+}

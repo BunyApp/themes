@@ -1,0 +1,11 @@
+{
+  "label": "Gray",
+  "icon": "circle.lefthalf.filled",
+  "author": "Buny",
+  "backgroundHex": "E4E4E4",
+  "textHex": "2B2B2B",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "E4E4E4",
+  "bannerBackgroundColor": "2B2B2B"
+}

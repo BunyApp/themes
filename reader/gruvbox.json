@@ -1,0 +1,11 @@
+{
+  "label": "Gruvbox",
+  "icon": "square.grid.2x2.fill",
+  "author": "Buny",
+  "backgroundHex": "FBF1C7",
+  "textHex": "3C3836",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "FBF1C7",
+  "bannerBackgroundColor": "3C3836"
+}

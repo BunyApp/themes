@@ -1,0 +1,11 @@
+{
+  "label": "Sepia",
+  "icon": "book.closed.fill",
+  "author": "Buny",
+  "backgroundHex": "F4ECD8",
+  "textHex": "5B4636",
+  "font": "Georgia",
+  "bold": false,
+  "bannerTextColor": "F4ECD8",
+  "bannerBackgroundColor": "5B4636"
+}

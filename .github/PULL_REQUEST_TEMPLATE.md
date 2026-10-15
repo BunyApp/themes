@@ -1,2 +1,4 @@
 - [ ] Ran `python3 scripts/build.py --check` locally
-- [ ] Checked colors in both light and dark mode
+- [ ] Checked contrast in both light and dark mode, including white text on `colorAccent` (see THEME_DESIGN.md)
+- [ ] `icon` is an SF Symbol available on iOS 17.6
+- [ ] Reader themes: `font` is a name from the "Fonts" list in THEME_DESIGN.md, or one I confirmed ships with iOS
